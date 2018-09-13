@@ -1,4 +1,4 @@
-## Welcome to Talha's GitHut Webpage
+## Welcome to Talha's GitHub Webpage
 
 We will go over an example of creating and merging pull requests. It is a valuable skill that will come in handy in the future.
 
